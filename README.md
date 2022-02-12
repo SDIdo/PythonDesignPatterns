@@ -32,4 +32,3 @@
 ### ⬚ Visitor
 
 ### References: https://refactoring.guru/design-patterns 
-                https://springframework.guru/gang-of-four-design-patterns/
